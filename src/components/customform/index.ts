@@ -1,0 +1,1 @@
+export { default as customform } from './customform.vue'

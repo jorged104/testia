@@ -1,0 +1,1 @@
+export { default as diagramviewer } from './diagramviewer.vue'
